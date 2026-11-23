@@ -1,2 +1,12 @@
 record_id,source_page,figure_region,entity,attribute,value,unit,verification_status
-CASE-P24-1,24,main,包豪斯建筑人物时间轴,,,,pending_high_resolution_review
+CASE-P24-1-Y1,24,main,work_1,year,1910,year,transcribed_visible_label
+CASE-P24-1-Y2,24,main,work_2,year,1920,year,transcribed_visible_label
+CASE-P24-1-Y3,24,main,work_3,year,1925,year,transcribed_visible_label
+CASE-P24-1-Y4,24,main,work_4,year,1925,year,transcribed_visible_label
+CASE-P24-1-Y5,24,main,work_5,year,1926,year,transcribed_visible_label
+CASE-P24-1-Y6,24,main,work_6,year,1928,year,transcribed_visible_label
+CASE-P24-1-Y7,24,main,work_7,year,1936,year,transcribed_visible_label
+CASE-P24-1-Y8,24,main,work_8,year,1937,year,transcribed_visible_label
+CASE-P24-1-Y9,24,main,work_9,year,1958,year,transcribed_visible_label
+CASE-P24-1-Y10,24,main,work_10,year,1959,year,transcribed_visible_label
+CASE-P24-1-Y11,24,main,work_11,year,1963,year,transcribed_visible_label
